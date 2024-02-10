@@ -190,7 +190,7 @@ style = '''
         padding: 5px;
         border-radius: 3px;
         margin-bottom: 3px;
-    }
+    } 
 '''
 
 app.setStyleSheet(style)
